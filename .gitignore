@@ -7,9 +7,6 @@ src/*.user
 .vs/
 .idea/
 
-Dependencies/*
-Artifacts/*
-Output/*
 
 Tests/obj/*
 TestsOutput/*
