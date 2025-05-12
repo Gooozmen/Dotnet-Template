@@ -1,0 +1,17 @@
+src/.vs/
+src/.idea/
+src/*/bin/
+src/*/obj/
+src/*.user
+
+.vs/
+.idea/
+
+Dependencies/*
+Artifacts/*
+Output/*
+
+Tests/obj/*
+TestsOutput/*
+
+.env
